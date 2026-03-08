@@ -49,7 +49,6 @@ Describe key lessons from building this project.
 ## Contact
 
 - Email: sleepyhallow254
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
 - GitHub: [@sleepyhallow254(https://github.com/sleepyhallow254)
 
 ## License
