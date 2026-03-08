@@ -48,9 +48,9 @@ Describe key lessons from building this project.
 
 ## Contact
 
-- Email: your@email.com
+- Email: sleepyhallow254
 - LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@sleepyhallow254(https://github.com/sleepyhallow254)
 
 ## License
 
